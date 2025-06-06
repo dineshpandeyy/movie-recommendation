@@ -2,6 +2,10 @@
 
 A content-based movie recommendation system that suggests similar movies based on movie content analysis. The system uses natural language processing and machine learning techniques to provide personalized movie recommendations.
 
+## Live Demo
+
+Try the application online: [Movie Recommendation System](https://findmovie.streamlit.app/)
+
 ## Features
 
 - Content-based movie recommendations using TF-IDF and cosine similarity
